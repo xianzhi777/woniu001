@@ -1,0 +1,8 @@
+user:
+  id: 1
+  username: aaa
+  age: 18
+  address:
+    1: 上海
+    2: 南京
+    3: 广州
